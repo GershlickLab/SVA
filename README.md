@@ -11,7 +11,7 @@
 
 
 ## Instructions:
-Put .czi file in "data"
+Put .czi file in a folder called "data" which is in the same folder as the .py files
 
 Run "Runner.py"
 
